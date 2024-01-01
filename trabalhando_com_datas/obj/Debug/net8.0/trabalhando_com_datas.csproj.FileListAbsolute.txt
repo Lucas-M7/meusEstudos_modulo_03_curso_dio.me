@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\bin\Debug\net8.0\trabalhando_com_datas.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\bin\Debug\net8.0\trabalhando_com_datas.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\bin\Debug\net8.0\trabalhando_com_datas.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\bin\Debug\net8.0\trabalhando_com_datas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\bin\Debug\net8.0\trabalhando_com_datas.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\trabalhando_com_datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\trabalhando_com_datas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\trabalhando_com_datas.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\trabalhando_com_datas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\trabalhando_com_datas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\refint\trabalhando_com_datas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\trabalhando_com_datas.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\trabalhando_com_datas.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\trabalhando_com_datas\obj\Debug\net8.0\ref\trabalhando_com_datas.dll
