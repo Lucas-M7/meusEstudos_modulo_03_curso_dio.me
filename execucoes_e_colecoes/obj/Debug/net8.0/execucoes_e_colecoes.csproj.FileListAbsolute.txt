@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\bin\Debug\net8.0\execucoes_e_colecoes.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\bin\Debug\net8.0\execucoes_e_colecoes.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\bin\Debug\net8.0\execucoes_e_colecoes.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\bin\Debug\net8.0\execucoes_e_colecoes.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\bin\Debug\net8.0\execucoes_e_colecoes.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.sourcelink.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\refint\execucoes_e_colecoes.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\execucoes_e_colecoes.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\execucoes_e_colecoes\obj\Debug\net8.0\ref\execucoes_e_colecoes.dll
