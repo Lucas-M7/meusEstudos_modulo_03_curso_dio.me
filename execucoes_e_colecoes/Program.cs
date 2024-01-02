@@ -6,15 +6,16 @@
     {
         Console.WriteLine(linha);
     }
-}catch(FileNotFoundException ex)
+}
+catch (FileNotFoundException ex)
 {
     Console.WriteLine($"Arquivo não encontrado. {ex.Message}");
 }
-catch(DirectoryNotFoundException ex)
+catch (DirectoryNotFoundException ex)
 {
     Console.WriteLine($"Diretório não encontrado. {ex.Message}");
 }
-catch(Exception ex)
+catch (Exception ex)
 {
     Console.WriteLine($"Ocorreu uma execção genéria. {ex.Message}");
 }
