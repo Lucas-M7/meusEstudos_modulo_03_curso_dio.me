@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "utilizando_throw_e_introducao_a_filas/1.0.0": {
+        "runtime": {
+          "utilizando_throw_e_introducao_a_filas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "utilizando_throw_e_introducao_a_filas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

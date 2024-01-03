@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.sourcelink.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\bin\Debug\net8.0\utilizando_throw_e_introducao_a_filas.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\bin\Debug\net8.0\utilizando_throw_e_introducao_a_filas.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\bin\Debug\net8.0\utilizando_throw_e_introducao_a_filas.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\bin\Debug\net8.0\utilizando_throw_e_introducao_a_filas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\bin\Debug\net8.0\utilizando_throw_e_introducao_a_filas.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\refint\utilizando_throw_e_introducao_a_filas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\utilizando_throw_e_introducao_a_filas.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\utilizando_throw_e_introducao_a_filas\obj\Debug\net8.0\ref\utilizando_throw_e_introducao_a_filas.dll
