@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\bin\Debug\net8.0\ifTernario.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\bin\Debug\net8.0\ifTernario.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\bin\Debug\net8.0\ifTernario.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\bin\Debug\net8.0\ifTernario.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\bin\Debug\net8.0\ifTernario.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.sourcelink.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\refint\ifTernario.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ifTernario.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\ifTernario\obj\Debug\net8.0\ref\ifTernario.dll
