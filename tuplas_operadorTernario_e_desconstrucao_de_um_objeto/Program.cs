@@ -29,20 +29,6 @@ else
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //  (string nome, int idade, string sobrenome, decimal altura) = ("Lucas", 18, "Mateus", 1.77M);
 
 //  Console.WriteLine($"Nome: {nome}");
