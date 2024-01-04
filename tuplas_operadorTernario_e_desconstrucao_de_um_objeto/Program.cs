@@ -1,21 +1,47 @@
-﻿using tuplas_operadorTernario_e_desconstrucao_de_um_objeto.Models;
+﻿using System.Reflection;
+using tuplas_operadorTernario_e_desconstrucao_de_um_objeto.Models;
 
-LeituraArquivo arquivo = new LeituraArquivo();
 
-var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
 
-if (sucesso)
-{
-    //Console.WriteLine("Quantidade de linhas do arquivo: " + quantidadeLinhas);
-    foreach (string linha in linhasArquivo)
-    {
-        Console.WriteLine(linha);
-    }
-}
-else
-{
-    Console.WriteLine("Não foi possivel ler o arquivo");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {
+//     //Console.WriteLine("Quantidade de linhas do arquivo: " + quantidadeLinhas);
+//     foreach (string linha in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possivel ler o arquivo");
+// }
 
 
 
