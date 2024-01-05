@@ -7,6 +7,9 @@ namespace gerenciadorDePacotes.Models
 {
     public class Vendas
     {
+        public Vendas()
+        {
+        }
 
         public Vendas(int id, string produto, decimal preco)
         {

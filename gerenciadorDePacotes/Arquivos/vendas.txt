@@ -1,5 +1,0 @@
-{
-  "Id": 7,
-  "Produto": "Pen-Drive",
-  "Preco": 27.00
-}
