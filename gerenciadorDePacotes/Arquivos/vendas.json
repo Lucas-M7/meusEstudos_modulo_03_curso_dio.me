@@ -1,5 +1,17 @@
-{
-  "Id": 4,
-  "Produto": "Pen-Drive",
-  "Preco": 23.00
-}
+[
+  {
+    "Id": 4,
+    "Produto": "Pen-Drive",
+    "Preco": 23.00
+  },
+  {
+    "Id": 5,
+    "Produto": "Sistema Operacional Kali",
+    "Preco": 150.00
+  },
+  {
+    "Id": 7,
+    "Produto": "Spyware",
+    "Preco": 200.00
+  }
+]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gerenciadorDePacotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf0affe6a09b41341e6dd859330081dae3171a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62215f23c89df9e46c0e507610242ee8f17ffab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("gerenciadorDePacotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gerenciadorDePacotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
