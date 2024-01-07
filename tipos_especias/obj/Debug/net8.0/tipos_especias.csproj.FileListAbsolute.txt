@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\bin\Debug\net8.0\tipos_especias.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\bin\Debug\net8.0\tipos_especias.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\bin\Debug\net8.0\tipos_especias.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\bin\Debug\net8.0\tipos_especias.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\bin\Debug\net8.0\tipos_especias.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.sourcelink.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\refint\tipos_especias.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\ref\tipos_especias.dll
