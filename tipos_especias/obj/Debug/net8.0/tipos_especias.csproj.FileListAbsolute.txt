@@ -13,3 +13,6 @@ C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especi
 C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.pdb
 C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.genruntimeconfig.cache
 C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\ref\tipos_especias.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_03\tipos_especias\obj\Debug\net8.0\tipos_especias.csproj.CopyComplete

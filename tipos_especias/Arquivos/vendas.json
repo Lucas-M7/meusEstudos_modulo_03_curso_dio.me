@@ -1,0 +1,22 @@
+[
+    {
+      "Id": 4,
+      "Nome_Produto": "Pen-Drive",
+      "Preco": 23.00,
+      "DataVenda": "2024-01-06T11:00:24.8208711-03:00",
+      "Desconto": null
+    },
+    {
+      "Id": 5,
+      "Nome_Produto": "Sistema Operacional Kali",
+      "Preco": 150.00,
+      "DataVenda": "2024-01-06T11:00:24.8208711-03:00",
+      "Desconto": 20
+    },
+    {
+      "Id": 7,
+      "Nome_Produto": "Spyware",
+      "Preco": 200.00,
+      "DataVenda": "2024-01-06T11:00:24.8208711-03:00"
+    }
+  ]
