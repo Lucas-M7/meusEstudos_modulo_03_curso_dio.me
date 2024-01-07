@@ -12,7 +12,8 @@ List<Venda> listaDaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoDo
 foreach (Venda venda in listaDaVenda)
 {
     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
-    $"Preço: {venda.Preco}, Data da Venta: {venda.DataVenda.ToString("dd/MM/yyy - HH:mm")}\n");
+    $"Preço: {venda.Preco:c}, Data da Venta: {venda.DataVenda.ToString("dd/MM/yyy - HH:mm")} -" + 
+    $" Desconto: {venda.Desconto:c}\n");
 }
 
 
