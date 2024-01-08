@@ -1,4 +1,5 @@
-﻿using gerenciadorDePacotes.Models;
+﻿using System.ComponentModel;
+using gerenciadorDePacotes.Models;
 using Newtonsoft.Json;
 using tipos_especias.Models;
 
@@ -14,6 +15,7 @@ MeuArray<string> arrayString = new MeuArray<string>();
 arrayString.AdicionarElementoAoArray("Teste");
 
 Console.WriteLine(arrayString[0]);
+
 
 
 
