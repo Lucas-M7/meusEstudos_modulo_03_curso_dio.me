@@ -1,17 +1,92 @@
 ﻿using gerenciadorDePacotes.Models;
 using Newtonsoft.Json;
-
-string conteudoDoArquivo = File.ReadAllText("Arquivos/vendas.json");
-
-List<Venda> listaDeVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoDoArquivo);
+using tipos_especias.Models;
 
 
-var listaAnonimo = listaDeVenda.Select(x => new { x.Produto, x.Preco });
+MeuArray<int> arrayInteiro = new MeuArray<int>();
 
-foreach (var venda in listaAnonimo)
-{
-    Console.WriteLine($"Produto: {venda.Produto}\tPreço: {venda.Preco:c}");
-}
+arrayInteiro.AdicionarElementoAoArray(30);
+
+Console.WriteLine(arrayInteiro[0]);
+
+MeuArray<string> arrayString = new MeuArray<string>();
+
+arrayString.AdicionarElementoAoArray("Teste");
+
+Console.WriteLine(arrayString[0]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dynamic variavelDinamica = 7;
+//Console.WriteLine($"Tipo da variável {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+variavelDinamica = "Texto";
+//Console.WriteLine($"Tipo da variável {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+variavelDinamica = true;
+//Console.WriteLine($"Tipo da variável {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+
+
+
+
+
+
+
+
+
+// Anônimo em Coleções
+ string conteudoDoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+ List<Venda> listaDeVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoDoArquivo);
+
+ var listaAnonimo = listaDeVenda.Select(x => new { x.Produto, x.Preco });
+
+ foreach (var venda in listaAnonimo)
+ {
+    // Console.WriteLine($"Produto: {venda.Produto}\tPreço: {venda.Preco:c}");
+ }
 
 
 
