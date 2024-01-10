@@ -17,3 +17,7 @@ Na heap, a alocação de memória é dinâmica.
 
 Quando instruções dos tipos de valores são executadas, por exemplo um "int a = 77;", ela é alocada na memória stack, enquanto na heap são alocados objetos e outros tipos já citados acima, por exemplo "MeuObjeto obj1 = new MeuObjeto()".
 Esse objeto, quando executado será alocado uma referência na memória stack e terá um ponteiro internamente indicando para a heap, onde irá estar o real objeto.
+
+## Garbage Collector
+
+O coletor de lixo gerencia a alocação e liberação de memória para o seu aplicativo. Cada vez que um novo objeto for criado o CLR aloca memória para o objeto a partir da heap.
