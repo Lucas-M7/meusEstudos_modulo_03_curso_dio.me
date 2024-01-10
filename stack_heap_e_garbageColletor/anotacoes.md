@@ -55,3 +55,41 @@ interrupção possível no aplicativo.
 
 7 - Gerenciamento de Recursos não Gerenciados:
     Embora o Garbage Collector seja eficaz no gerenciamento automático da memória para objetos gerenciados, é importante lembrar que ele não gerencia recursos não gerenciados, como arquivos, conexões de rede, etc. Nestes casos, é necessário implementar a interface IDisposable e usar o padrão using para garantir a liberação adequada desses recursos.
+
+
+    
+Em C#, os tipos de dados podem ser classificados em dois grupos principais: tipos de valor e tipos de referência. Essas categorias têm comportamentos distintos em relação à alocação de memória, passagem de parâmetros e atribuição. Vamos explorar as principais diferenças entre tipos de valor e tipos de referência:
+
+## Tipos de Valor:
+
+Alocação de Memória:
+    Os tipos de valor são armazenados diretamente na pilha de memória.
+    A pilha é mais rápida para acessar e libera automaticamente a memória quando o escopo da variável termina.
+
+Atribuição:
+    Quando um tipo de valor é atribuído a outra variável, ocorre uma cópia completa dos dados.
+    Modificar uma cópia não afeta a variável original.
+
+Nullabilidade:
+    Não podem ser nulos, a menos que sejam usados em conjunto com tipos anuláveis (Nullable<T>).
+
+Exemplos:
+    Tipos primitivos, como int, float, char.
+    Structs e Enums.
+
+
+## Tipos de Referência:
+
+Alocação de Memória:
+    Os tipos de referência são armazenados no heap, e uma referência para o objeto é mantida na pilha.
+    O heap oferece mais flexibilidade, mas a alocação e liberação de memória são geralmente mais lentas.
+
+Atribuição:
+    Quando um tipo de referência é atribuído a outra variável, apenas a referência é copiada, não os dados reais.
+    Ambas as variáveis apontam para o mesmo objeto no heap.
+
+Nullabilidade:
+    Pode ser nulo por padrão.
+
+Exemplos:
+    Classes e arrays são os tipos de referência mais comuns.
