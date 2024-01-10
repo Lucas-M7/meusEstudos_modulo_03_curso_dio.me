@@ -21,3 +21,14 @@ Esse objeto, quando executado será alocado uma referência na memória stack e 
 ## Garbage Collector
 
 O coletor de lixo gerencia a alocação e liberação de memória para o seu aplicativo. Cada vez que um novo objeto for criado o CLR aloca memória para o objeto a partir da heap.
+Enquanto o espaço de endereço estiver disponível no heap, o tempo de execução irá continuar a alocar espaço para novos objetos.
+Eventualmente, o coletor de lixo deve realizar uma coleta a fim de liberar alguma memória.
+
+## Benefícios do Coletor de Lixo
+
+ - Livra os devs de ter que liberar memória manualmente.
+
+ - Aloca os objetos no heap de forma eficiente.
+
+ - Recupera objetos que não estão mais sendo usados, limpa sua memória e mantém a memória disponível para alocações futuras.
+
